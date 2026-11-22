@@ -10,7 +10,7 @@
 
 * 🎂 **Age:** 16
 * 💻 **Focus:** Earn a degree in computer science and work as a front-end developer.
-*  I like one piece, dandadan, pokemon, hanako kun.
+*  I like one piece, dandadan, pokemon.
 * 🎸 I like Deftones, Guns N' Roses, and Sevendust.
 
 ---
