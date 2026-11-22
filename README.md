@@ -25,12 +25,12 @@ Here are the technologies I study and use in my projects:
 </p>
 
 <p>
-  <img src="https://github.com/user-attachments/assets/f3271d3e-1383-4b95-b37c-7ba8a557c6e8" width="120" height="100" alt="" />
+  
   <strong>CSS3</strong>
 </p>
 
 <p>
-  <img src=""C:\Users\henri\Downloads\images.png"" width="32" height="32" align="center" alt="JavaScript" />
+  <img src="https://photos.app.goo.gl/vn7jZ5RyAXGoEKkv6" width="32" height="32" align="center" alt="JavaScript" />
   <strong>JavaScript</strong>
 </p>
 
