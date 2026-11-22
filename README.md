@@ -20,8 +20,7 @@
 Here are the technologies I study and use in my projects:
 
 <p>
-  <img src="" width="32" height="32" align="center" alt="HTML5" />
-  <strong>HTML5</strong>
+ 
 </p>
 
 <p>
@@ -30,12 +29,12 @@ Here are the technologies I study and use in my projects:
 </p>
 
 <p>
-  <img src="https://photos.app.goo.gl/vn7jZ5RyAXGoEKkv6" width="32" height="32" align="center" alt="JavaScript" />
+ 
   <strong>JavaScript</strong>
 </p>
 
 <p>
-  <img src="" width="32" height="32" align="center" alt="Python" />
+  
   <strong>Python</strong>
 </p>
 
