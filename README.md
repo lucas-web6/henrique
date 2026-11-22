@@ -1,6 +1,6 @@
 # henrique
 <div align="center">
-<img src="images.jpg" />
+<img src="images.jpg" width="100%" alt="" />
 </div>
 # Sobre mim
 Atualmente fazendo curso técnico em Informática, no 1 ano do Ensino médio do IFSP.
