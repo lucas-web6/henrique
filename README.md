@@ -1,4 +1,4 @@
 
-<img src="./2fd23986198528183c0e4958bb9435e7.jpg" alt="Imagem" style="max-width: 100%; height: auto; display: block;">
+<img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQ..." alt="Imagem" style="max-width: 100%; height: auto; display: block;">
 
 
