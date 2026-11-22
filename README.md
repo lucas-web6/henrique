@@ -20,7 +20,7 @@
 Here are the technologies I study and use in my projects:
 
 <p>
- 
+ <strong>HTML5</strong>
 </p>
 
 <p>
